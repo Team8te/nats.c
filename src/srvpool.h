@@ -14,7 +14,7 @@
 #ifndef SRVPOOL_H_
 #define SRVPOOL_H_
 
-#include "status.h"
+#include "../include/nats/status.h"
 #include "hash.h"
 
 // Tracks individual backend servers.

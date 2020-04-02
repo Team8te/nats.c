@@ -14,7 +14,7 @@
 #ifndef NUID_H_
 #define NUID_H_
 
-#include "status.h"
+#include "../include/nats/status.h"
 
 #define NUID_BUFFER_LEN (12 + 10)
 

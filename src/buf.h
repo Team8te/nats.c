@@ -16,7 +16,7 @@
 
 #include <stdbool.h>
 
-#include "status.h"
+#include "../include/nats/status.h"
 
 typedef struct __natsBuffer
 {

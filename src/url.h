@@ -14,7 +14,7 @@
 #ifndef URL_H_
 #define URL_H_
 
-#include "status.h"
+#include "../include/nats/status.h"
 
 typedef struct __natsUrl
 {

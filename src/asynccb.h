@@ -14,7 +14,7 @@
 #ifndef ASYNCCB_H_
 #define ASYNCCB_H_
 
-#include "status.h"
+#include "../include/nats/status.h"
 
 typedef enum
 {

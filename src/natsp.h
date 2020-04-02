@@ -34,7 +34,7 @@
 #endif
 
 #include "err.h"
-#include "nats.h"
+#include "../include/nats/nats.h"
 #include "buf.h"
 #include "parser.h"
 #include "timer.h"

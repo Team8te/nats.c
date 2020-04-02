@@ -17,7 +17,7 @@
 
 #include <stdint.h>
 
-#include "status.h"
+#include "../include/nats/status.h"
 
 struct __natsStatistics
 {

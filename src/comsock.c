@@ -19,7 +19,7 @@
 #include <assert.h>
 #include <time.h>
 
-#include "status.h"
+#include "../include/nats/status.h"
 #include "comsock.h"
 #include "mem.h"
 

@@ -14,7 +14,7 @@
 #include "natsp.h"
 
 #include <stdlib.h>
-#include "status.h"
+#include "../include/nats/status.h"
 #include "stats.h"
 #include "mem.h"
 

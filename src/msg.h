@@ -14,7 +14,7 @@
 #ifndef MSG_H_
 #define MSG_H_
 
-#include "status.h"
+#include "../include/nats/status.h"
 #include "gc.h"
 
 struct __natsMsg;

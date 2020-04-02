@@ -15,7 +15,7 @@
 
 #include <string.h>
 
-#include "status.h"
+#include "../include/nats/status.h"
 #include "mem.h"
 #include "hash.h"
 
